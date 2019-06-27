@@ -11,9 +11,9 @@ git clone https://github.com/subhamkapoor360/DevOpsHelpers.git
 
 cd alpine/python3/
 docker build -t alpinepython3 .
-docker run --rm -it alpinepython3 bash
+docker run --rm -it alpinepython3 sh
 
 **OR**
 
 docker pull subhamkapoor360/alpinepython3:latest
-docker run --rm -it subhamkapoor360/alpinepython3:latest bash
+docker run --rm -it subhamkapoor360/alpinepython3:latest sh
