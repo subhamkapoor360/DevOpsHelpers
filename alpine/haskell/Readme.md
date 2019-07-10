@@ -1,5 +1,5 @@
 
-**Java in Alpine**
+**Haskell in Alpine**
 
 **Tags**
 
